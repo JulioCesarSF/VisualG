@@ -12,14 +12,18 @@ Inicio
 // no exemplo quero um atribuir para a variável numero um valor digitado pelo
 // usuário
 // para guardar este valor digitado uso o comando leia (pegar o input)
-
 escreval("Digite um número:")
 leia(numero)
 
-escreva("O número digitado é: ", numero)
+escreval("O número digitado é: ", numero)
 
-//perceba que posso mostrar o valor de uma várivel com o escreva ou escreval
+//perceba que posso mostrar o valor de uma várivel com o escreva e escreval
 // usando uma vírgula no fim
+
+// você também pode atribuir um valor usando "<-"
+
+numero<-999
+escreva("O novo valor de numero é: ", numero)
 
 
 Fimalgoritmo
