@@ -13,7 +13,7 @@ Inicio
    // os operadores lógicos/racionais suportados pelo VISUALG:
    // =, <, >, <=, >=, <>, nao, ou, e xou
    // para mais informacao vá em "Help(Ajuda)->Referência da Linguagem..."
-   //para ajudar o código use CTRL+G
+   // para alinhar o código use CTRL+G
 
    escreval("Digite um numero: ")
    leia(numero)
