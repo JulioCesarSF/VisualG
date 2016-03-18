@@ -45,7 +45,7 @@ Inicio
          escreval("Nenhuma das opcoes acima")
       fimescolha
    senao
-   escreval("Opção invalida")
+      escreval("Opção invalida")
    fimse
 
 
