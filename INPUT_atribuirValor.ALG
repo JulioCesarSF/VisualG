@@ -9,7 +9,7 @@ numero : inteiro
 
 Inicio
 // atribuir um valor para uma variavel usa-se o comando leia(VARIAVEL)
-// no exemplo quero um atribuir para a variável numero um valor digitado pelo
+// no exemplo quero atribuir para a variável numero um valor digitado pelo
 // usuário
 // para guardar este valor digitado uso o comando leia (pegar o input)
 escreval("Digite um número:")
