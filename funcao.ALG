@@ -24,6 +24,24 @@ fimfuncao
 
 escreval("Divisao: ", dividir(20.3, 10.7))
 
+   // exemplo2: com firulas
+
+funcao dividir2(x,y:real) : real
+var n1, n2, result : real
+inicio
+   result<-9999
+   n1<-x
+   n2<-y
+   se nao (y=0) entao
+      result<-x/y
+   senao
+      retorne 0
+   fimse
+   retorne result
+fimfuncao
+
+escreval("Divisao: ", dividir2(20.3, 10.7))
+
 
 
 Fimalgoritmo
