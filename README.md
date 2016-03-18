@@ -2,4 +2,4 @@
 
 VisualG version 3.0.6.2
 
-Exemplos
+Exemplos de uso dos comandos
