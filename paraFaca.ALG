@@ -11,7 +11,7 @@ Var
 Inicio
 
    // existem vários tipos de loop(laços) no VISGUALG
-   // o PARA DE ATE PASSO FACA irá executar um bloco de comandos
+   // o PARA DE ATE PASSO FACA FIMPARA irá executar um bloco de comandos
    // um determinado número de vezes
 
    // exemplo1: tabuada
