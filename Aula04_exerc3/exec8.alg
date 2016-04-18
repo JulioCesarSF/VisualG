@@ -18,9 +18,8 @@ inicio
 
    para i de 6 ate 60 passo 6 faca
       perc<-i/2
-      novoPreco<-preco + ((preco*3)/100)
-      escreval("Em ", i, "x com acrescimo de", perc ,"%, Valor da parcela de R$ ", (novoPreco/i):6:2)
-      escreval("Total R$ ", novoPreco:6:2)
+      novoPreco<-preco + ((preco*perc)/100)
+      escreval("Em ", i, "x com acrescimo de", perc ,"%, Valor da parcela de R$ ", (novoPreco/i):6:2, " -> Total R$ ", novoPreco:6:2)
    fimpara
    
 fimalgoritmo
