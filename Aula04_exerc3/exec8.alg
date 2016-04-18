@@ -14,6 +14,7 @@ inicio
       limpatela
    fimenquanto
 
+   escreval("Preço carro R$", preco)
    escreval("Pagamento a vista com 20% de desconto R$ ", (preco-(preco*20)/100):6:2)
 
    para i de 6 ate 60 passo 6 faca
